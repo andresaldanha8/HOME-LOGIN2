@@ -1,0 +1,14 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background: rgba(53, 208, 19, 0.533);
+    text-align: center; 
+}
+
+h3 {
+    width: 300px;
+    margin: 100px auto;
+
+}
